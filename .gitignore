@@ -1,0 +1,21 @@
+﻿# Python
+__pycache__/
+*.pyc
+
+# 存档
+saves/
+*.json
+
+# Visual Studio
+.vs/
+*.pyproj
+*.sln
+*.sqlite
+*.vsidex
+*.backup.json
+.wsuo
+ProjectSettings.json
+
+# 系统
+.DS_Store
+Thumbs.db
